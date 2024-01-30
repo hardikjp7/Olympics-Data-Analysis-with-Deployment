@@ -3,7 +3,7 @@
 
 This Streamlit web app performs data analysis on the Olympics dataset. It provides insights into medal tallies, overall statistics, country-wise analysis, and athlete-wise analysis. The app is designed to explore and visualize trends and patterns in the data.
 
-![Olympics Data Analysis](data/img2.jpg)
+![Olympics Data Analysis](data/img1.png)
 
 ## Dataset used
 - [Olympics Dataset](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
