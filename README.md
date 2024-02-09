@@ -1,4 +1,4 @@
-# Olympics-Data-Analysis-with-Deployment
+# Olympics Data Analysis [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://olympics-da.streamlit.app/)
 
 
 This Streamlit web app performs data analysis on the Olympics dataset. It provides insights into medal tallies, overall statistics, country-wise analysis, and athlete-wise analysis. The app is designed to explore and visualize trends and patterns in the data.
